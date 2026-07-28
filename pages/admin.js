@@ -318,7 +318,7 @@ export default function Admin() {
             <div className="toolbar" style={{ justifyContent: 'space-between' }}>
               <div>
                 <span className="field-label">Đăng nhập với vai trò</span>
-                <strong>Trưởng phòng Kế hoạch Tổng hợp</strong>
+                <strong>Phòng Khách hàng doanh nghiệp</strong>
               </div>
               <div style={{ display: 'flex', gap: 8 }}>
                 <button className="btn secondary" onClick={doLogout}>
